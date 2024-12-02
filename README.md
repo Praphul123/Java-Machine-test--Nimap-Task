@@ -18,6 +18,10 @@ Relationships:
 Each category can have multiple products.
 While fetching a product by ID, the API populates its category details.
 
+
+
+API  ENDPOINTS
+
 Category Endpoints
 Method	    Endpoint	                         Description
 GET	      /api/categories?page={page}	      Get all categories (paginated)
